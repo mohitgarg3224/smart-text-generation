@@ -1,0 +1,1366 @@
+﻿"Hello folks, please help me a bit with the following sentence: 'Order here your personal photos or videos.' - I think the only allowed version is 'Order your personal videos or photos here.', but I'm not sure, are you?"
+Did I choose a bad channel? I ask because you seem to be dumb like windows user
+the second sentence is better english   and we are not dumb
+Sock Puppe?t
+WTF?
+"it's a wikipedia term.  There is Prodigy, PRDIGY and prgidy and they're all the same guy"
+what is bartek trying to do?
+is he trying to play online video?
+"bartek go here, if this doesn't play then it gives you a link to get it... http://www.milkandcookies.com/link/45466/detail/"
+"the algorithms from aptitude were ported to apt-get, AFAIK."
+aptitude was more advanced at some point.
+convert probably can do that.
+is there any reason why my 'network manager' icon in my tray does not scale when the other ones get resized when i change the size of the panel?
+probably not a vector icon
+the other icons aren't vector icons either.
+how do fix vlc in the terminal?
+fix what?
+check other programs. same faint sound?
+"I installed the 64bit version of ubuntu and I can't open firefox(segfault) and if I try to open nautilus nothing happens and my cpu goes 100%, what can I do???"
+"Anyone knows why after I installed the 64bit version of ubuntu and I can't open firefox(segfault) and if I try to open nautilus nothing happens and my cpu goes 100%, what can I do???"
+i sent you a link on how to install 32 bit
+"ok, anyone know how I set bios password in ubuntu"
+already set
+you'd need to set that in your BIOS.
+Hello Does Ubuntu have somekind of register to configure applications and os settings?
+Hello Does Ubuntu have somekind of register to configure applications and os settings?
+Linux doesn't have an equivalent to the Windows registry
+how do i generate an xorg.conf file?
+for intel GMAs
+"'sudo xorg -configure', I think"
+anyone else run into issues with cd/dvd burners not identifying blank media installed?
+yep.. happened to me with a HP lightscribe cd/dvd burner.. replaced and all is well.
+you might try k3b as the burning software . .. I never really liked brassero
+Where does synoptic install the programs to? Like it aint on desktop
+nvm
+"Synaptic installs the programs to wherever they need to be installed.  Most of them can be found in the Gnome menu, and if not there, in the Debian submenu.  All applications on your system that are recognized by Synaptic are in your Debian submenu."
+are there any utils that will do a repair of your laptop once in a while ?
+like you have advaned system optimizer in windows sort of stuff
+repair in the sense? clean up of unused files ?
+"hi folks, i'm making a backup of my root partition just incase this gparted livecd resize goes wrong - at the moment i am just cp -Rp /bin /etc /lib /sbin /usr /boot /home /opt /srv /var /vmlinuz /media /opt /root  -- is there anything else i should be doing?"
+use tar
+try g4l
+is there a way to tell ubuntu not to show icon for a specific external hdd on the desktop? (but i want others to show up on the desktop)
+can use a udev rule for it
+thanks :)
+parsi: chmod 777
+parsi: to the file
+^^^
+Is there a second cd needed for the 9.04 beta server install? I keep reaching about 77% completed and then it asks for 'Ubuntu-Server 9.04 _Jaunty Jackalope_ Beta i386 (20090324.2)'
+"since jaunty is still beta, all issues/discussions go in #ubuntu+1 channel, please"
+thnx
+can someone giv me a link in ubuntu wiki to install sun java
+java.com
+i mean running the command in terminal to get sun java. there are 2 kinds the black and the sun
+"hi, can someone help me install a dual boot for windows 7 and ubuntu. I've installed Win7 and I've installed ubuntu and made a /boot, /home, /root, and swap partitions. The /boot is a primary partition and the rest is logical. I set the device boot loader to /boot and when I restart I get a error grub rescue message"
+am i supposed to set the device boot loader to /dev/sda or sda3? where the /boot partition is
+"/dev/sda, as a general rule"
+"idleone, i went through the set up and entered all infomation include horiz and vert sync rates but when i go to the screen resolution setting i still dont see any new options, do i have to restart before they take effect?"
+"idleone, maybe i didn't use the right depth it gave me the option of 16 and 24 i selected 16, should i try 24?"
+"linux systems can be fully updated without a restart, even the kernel"
+ itsux2bu i use Deskyop version
+shall i use Server one
+Yes.  Postfix + Dovecot tend to make a decent email stack.
+Can anyone recommend an NFS alternative that works transparently?
+"once you get NFS set up, it IS transparent"
+"yeah, i know. but it's a PITA trying to keep my uid/gid's in sync"
+http://www.newsforge.com/article.pl?sid=04/10/12/1421241
+Article on Ubuntu.
+sloooow
+"hi all - I'm trying to find ttf-bitstream-vera for karmic, but it's not there, and my google-fu is failing me. can someone point me to some hints?"
+they've been replaced by DejaVu fonts
+cool! thank you.
+what time will jaunty-ubuntu mostly be released
+^^^^^
+it doesnt state the time...
+"Question guys, I know it's probably in the manual some where but I'm too lazy to look, where abouts is the setting to make the icons on the desktop smaller?"
+can't you alt + middle click and resize them?
+That doesn't work for me
+can someone help me print from a wireless printer using 9.04?
+is the wireless printer already set up?? Does it have an ip and can you ping it?
+"its my dads, ive never used it before.  IT works for him so i think its all set up"
+"when I upgraded from 10.04 to 10.10, the upgrade process put the UUID of the wrong partition in /boot/grub/menu.lst ... which package should I report a bug against?"
+Against the upgrade tool
+thanks
+how can I install mercury messanger on ubuntu?
+" you need to follow the directions:  it's tricky, but you can"
+ if i remember right you need to do some sneaky stuff to enable the sys tray
+hints on how  to get Nvidia driver to work?
+https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+thanks
+whats the best gnome irc?
+xchat or xchat-gnome
+which slash bar?
+"I'm having problems setting up samba. It seems to work,"
+I can share folders but the shared folders can't be written to over the net
+ there is also a #samba channel if you need more then this channel can provide
+i just have a problem with my laptop it does not want to find the network in 8.04 or connect to it i have a broadcom wireless card
+you need ndiswrapper
+Take at look at: http://ubuntuforums.org/showthread.php?p=1071920&mode=linear or http://ubuntuforums.org/showthread.php?t=25683 they might help
+"I have to do this on every system, or just make one in run directory and it will work for everyone who download this app?"
+"I'm new to ubuntu, how can do I make hidden files visible?"
+depends on what app / viewer you are talking about. nautilus offers a menu option for that
+Is it possible to disable the graphics card in my AGP slot and run from my onboard graphics without removing the card?
+"Probably.  Look at the BIOS for your computer, not here. (!)"
+"ok thanks, I thought it was something you did in the OS"
+"ok so im upgrading a server from gutsy to hardy over ssh, and it just got to 'starting kernel log daemon' and now its just hanging there, im lost as far as what to do"
+"do you have access to the server? if yes, then do it on the console."
+"ah. okay. then, you'll need to check it out to be sure that it can be reboot when it's done."
+"quick question, if anyone knows.. is there a tutorial on how to switch to an SMP kernel?  I'm using a p4HT, I have the HT dissabled, not sure if it's better off that way in nix or not?"
+edgy uses smp enabled kernel by default. dapper you have to install it with apt-get
+thx
+http://paste.ubuntu-nl.org/11156
+some one helps me with those dependencies problems
+tried 'apt-get -f install' ?
+anyone knows witch port uses apt-get?
+hi :)
+it just uses ftp/http
+"hi, I can't open cdrom drive. running ubuntu 11.10 now"
+how should I go about trouble shooting now
+type 'eject' in terminal
+how do i switch to kbuntu?
+'sudo apt-get install kubuntu-desktop'
+nope...not at all.
+is it possible to remove bottom shelf in gnome classic?
+fair enough ... .thanks
+i believe it's ALT+Shift+right click -> delete
+"hey, I just changed the cd drive"
+AND it worked!
+hehe
+When is Ubuntu 8.8 being released?
+"never , next is .10"
+"ah, ok."
+"Forums will be backup 1/23/2006 around 10am EST.. just a heads up, we needed to do some emergency work."
+yeah we finally tracked the issue down today..
+"ah, good to hear"
+is their a recommended PDF editor?
+ access the repos with either apt (command line) or synaptic (GUI) package manager.
+thanks
+PLEASE
+WOMENS
+/join #ubuntu-es
+Anyone please? i'm sure there is a simple program I'm missing...
+you just want to use cp? from command line?
+"if you are just copying, don't worry about corruption.  even if something really bad happene'd you'd still have the original correct?"
+"you can type 'your_cmd | less' to see all, when you had enough finish with q"
+you will have to ask the manufacturer...
+ok ty
+/!register
+er
+  /nickserv help register
+does Ubuntu outsource india ?
+i think the Indians might have something to say about that.
+what difference does it make? did you have an ubuntu-related question?
+no
+the text based
+"ok , i have intel onboard vga, with hdmi output, how do i use it?"
+"hello everyone, it's another grand ubuntu day. Does anyone know what I can use to open winrar archives?"
+how is everybody?
+a little aggravated. You?
+hello we are running ubuntu 10.10 server .. we are facing issue related to connection getting reset when we access port 80 .. all other ports are accessed properly. we have disabled iptables and all other firewall ufw but still no luck
+10.10 is no longer supported*
+there's also #ubuntu-server
+Is something going on?  All of my mini.iso installs are failing on the linux-generic package.
+"They were working before, but it's been a few weeks since I needed to install Ubuntu."
+"the linux-generic various meta packages have been updated, but the actual packages aren't up yet (or they weren't earlier)"
+"Hi all, I want to install the guest extensions of virtualbox in ubuntu 10.04"
+but they dont work
+: Please join #ubuntu+1 for Lucid/10.4 support/discussion.
+what is your wireless problem?
+"it will not connect keeps asking for passphrase altough i have inputted the right and using key1, WEP"
+yes it's a wirless router and had it connected before but no its not workin
+"yay i Have MeeGo as Second OS on my phone but it need to be Develop more, is slow as *** (sure I'm using micro-sd but still it should not be that slow)and is many problem with the OS"
+connection to ubuntu support?
+o man sorry i have to much in my head forget some time's the rules for all channels i'm in.
+BOOOOOOOYAAAAAAAHHHHHHHH!
+You scared me.
+Get soemthing to work?
+the buggyness of the distro is fully on topic
+"No, this is a channel for support, not discussions about Ubuntu"
+well you seem to believe that support is unrelated to buggyness :) lets say you quite alone to think so
+"Where can I get help regarding sound problems? Yes I know, I have read tons of documentations and even installed another alsa version... I'm 2 days searching for solutions"
+"Where can I get help regarding sound problems? Yes I know, I have read tons of documentations and even installed another alsa version... I'm 2 days searching for solutions"
+What problems?
+"when installing ubuntu at the free area of a hard disk with xp on, does the installer put a boot selector at the beginning of the disk?"
+"Yes, one called 'grub'"
+"as far as I know, its entire setup is automatic in ubuntu."
+actually
+just a sec i have an idea
+I'm going to try out the steps detailed in the first link
+!pinning | zanberdo
+!guidelines | cryptopsy
+/topic works too - I find it more conveniant than copy/pasting. What say you?
+"i'd installed ubuntu in my notebook, can i make a partition ? how ?"
+or just cfdisk - z 'ur disk'
+check the 'man cfdisk'
+can somebody help me....how to recover file in formatted ntfs external HD?
+can somebody help me....how to recover file in formatted ntfs external HD?
+"can try recover my files it on torrent I have always had some results, just install and select drive and run."
+does anyone know how FF can use 99-100% CPU ?
+no flash usage at all
+javascript
+!schedule
+october?
+"right, october.  6.10 (2006, 10th month)"
+Does anyone know how I can check what driver I'm using for my video card?
+"Hmmm...says 'fglrx'.  That's not the new ATI driver, is it?"
+"fglrx could be either the new ati driver or the old one, they are both called fglrx"
+Evening All
+Is this the best place for new converts from Windoze to Linux (Ubuntu 8.10)?
+yes
+AIGLX + Compiz = Sexy Ubuntu Desktop :D
+dl.tv former the screensavers host has a nice video of !compiz on open suse today.
+0
+It's easy if install first windows 7  and after it ubuntu.
+So as last is ubuntu it find all other operating files to startup.
+yes windows lost the bootloader or whatever it is but using liveCD it can be re-enabled
+9.04 jaunty jackalope
+11.04 today an ring ceremony tomorrow which means I get to leave school after it and be excused
+11.10 uses grub2 right?
+Is there a alternative way than apt-get to install xserver-xfree ?
+gwildor: but you need xserver-xfree86 to run synaptic
+was only half paying attention.....sorry
+Hey
+Pidgin won't connect. I type my email and password but it says it's incorrect. but when i try to sign in though the website it works fine! :s
+"i am a user too, but i think you also may know there is also a #pidgin channel"
+"Hi, i have just read that you can shop Kinect for PC (windows 7). Do you think that we will have a linux driver soon?"
+check this: http://openkinect.org/wiki/Main_Page
+"oh, ok. It seems a project that dates long time ago. Never heard about. Thx"
+"Trying to install 10+ distros on HD each booted by Grub1  title Empty @ hda1 chainloader (hd0,0)+1  and so on. Problem 'Error 1: Filename must be either an absolute pathname or blocklist'"
+I am following the JustLinux Saikee tutorial are newer distros broken for grub1 ?
+"Curiosity, why are you using grub1?"
+I got windows under linux with virtualbox.. got the stuff I need so I can be without a real windows partition :)
+"I feel like a complete twit right now.. how am I supposed to install XDocLet ? only found a bunch of tar'ed .jar-files, and I got no clue what to do with em lol"
+"eww java, you run then with java -jar whatever.jar"
+Ubutntu 9.04 beta: compiz: missing transparency effeccts on all windows.  everything else in compiz works great.  any ideas?
+intel graphics
+#ubuntu+1
+Try Synaptic > File > History
+ /usr/lib/firefox-3.6.6 in mc shows Owner: root/src even after I have re-installed all packages having 'firefox' in their names. How to fix this?
+thank you
+"hello all -- quick question: I came across some information that says that Ubuntu comes with 3180 packages by default, and maximally 16271.  Where are the rest of these packages? Is there an ISO somewhere to download or is it totally by apt?"
+anyone? (see question above) where to get the rest of the ubuntu packages?
+"all the extra software you're referring to is in the universe repository, accessible via apt or synaptic."
+grumpy groundhog
+they're gonna run out of hogs pretty soon
+After grumpy is perky penguin.
+"CAN ANYONE HELP me with installing a video game? The first patch won't update the game, but the others try to patch and pretend to succeed but they need the first patch to do this. I'm stuck with this game and it won't work unless the first patch is installed... I think it may have something to do with the ms.net framework but I'm not sure...."
+What game?
+"I havnt had to need that, I have no experience there, sorry, but I wonder if you could... Hm"
+So why are we helping zxc333?
+"Seriously, if he's not going to use linux then why does he expect help from us"
+aggreed
+Hi. What are the 6.06 images called 'alternate'?  E.g. ubuntu-6.06-alternate-i386.iso
+"they use the Debian-installer, in text-mode.  They are useful when setting up LVM, RAID, servers, or other special (non-Desktop) requirements"
+"Ah, thanks!"
+"I downloaded Google Earth, or so I thought, but ended up with a useless .bin file.  I wanted to install Google Earth, but can't do jack shit with the file I ended up with.  What a worthless fucking waste of 25MB!"
+medibuntu has google earth in it
+please watch the language
+Does the size of an unsigned long differ between an x86 based computer and an arm9 based controller?
+"Sorry, for asking this question here.. but I've found that there are people in this channel working with stuff like this... I am using the helix toolchain and kernel 2.6.22.."
+porting apps for NintendoDS?
+can someone help me with usb problems. ubuntu doesnt recognize my mp3 player of usbstick and win2000 does. im dual booting but i really want to use linux permanently
+does ubuntu recognizes other usb devices on your computer?
+it recognizes my usb mouse
+./configure
+!chmod > noelferreira
+i did chmod to that script however the script itself has a sudo command in it.
+hello
+is 12.10 coming out tomorrow as expected?
+ask in #ubuntu+1 as the channel motd states
+"All kidding aside, isn't there a way to get a higher screen resolution than 1024 by ..."
+"I'm reading what you wrote, ubotu"
+"click on applications, then accesories, then terminal"
+"seems there's not much for keyboard shortcuts in GNOME but through configuration editor. There may be an application to do this but I haven't found it yet. Weak, eh?  Sounds like someone needs to write an app."
+I didn't mean to say I could do better.
+"but the same goes for music. If someone is missing half the notes while playing the moonlight sonata, and I point it out, it doesn't mean I presume to be able to hit even a third."
+"Hi. I have a windows xp iso file, I would like to copy content of this .iso file to my pendrive and make it bootable. How can I do that under ubuntu?"
+are you kidding me? making bootable USB stick is 'highly  windows specific issue'?
+making a *Windows* bootable off a pendrive is.
+it not doing anything just show this http://paste.ubuntu.com/1184732/
+http://paste.ubuntu.com/1184732/
+no need to repaste that 6 times
+do you have the shoetcuts already /usr/share/applications/<name of program.desktop> but after reading above seems like Dr_willis  got you going
+if you want something running as a supersuser just add that or create a new .desktopfile and use gksudo in the execute part
+a good example may be found in the program 'bleachbit '  as there are 2 .desktop files one for reg user's and one for root  under /usr/share/applications/bleachbit.desktop   /usr/share/applications/bleachbit.root.desktop  or wireshark is a good different example   look at those files and pay close attention  to the part that looks like' Exec= '  that is how and where and what all right there hope that this help
+how to transfer files (250 GB) from my pc and my new laptop?
+how to transfer files (250 GB) from my pc to my new laptop?
+"not by getting kicked from the channel, I suppose."
+!fishing | ortsvorsteher
+:)
+This should be helpful too: http://mywiki.wooledge.org/BashFAQ/037
+check /etc/fstab ;)
+ok
+fstab just lists internal HDDs
+"hey all, I've a question.  Is there anyway to migrate from Ubuntu to Kubuntu w/o loosing any settings or anything downloaded etc?"
+I tried the Kubuntu live cd and was impressed
+just install KDE via synaptic. i did it and it worked fine
+what is the root password on knoppix ?
+toor?
+ no its not that one
+does the ubuntu live cd use squashfs
+- i don't think it does
+i am looking for for a mini-distro that i can modify/learn from
+I'm not able to download Eterm with apt-get.. should I add some mirror or what?
+"I see it in universe, eterm"
+"it is in the universe repository, you may need to enable it"
+"huh, PPA sounds sweet!"
+who all is getting in the beta?
+it would be really awesome if it automatically generated packages for all distributions based on the source code
+its any soft  to free ram?
+free ram i wasted ram
+managin ram is the kernels job
+http://pastebin.com/d74f8dc93
+i guese thats what you want no ?
+ lspci | grep vga
+i'm trying to tftp to a router.  it asks me to specify a port....which port do i use?
+tftp:69 ftp:21
+"ok, great.   thanks for the info."
+Hello.  Can anyone recommend a good iso burner for Ubuntu?
+"just right click on your ISO in the file manager, and select 'Burn To Disc'"
+it should - it always has for me...
+crashes from moving my mouse pointer
+crashes from moving my mouse pointer and it freezes
+crashes from moving my mouse pointer and it freezes
+"Hi, can anyone help me? I am trying to encode a video using CLI and ffmpeg and x264. The thing is that I want to trim, deinterlace, and maybe resize the video... any help would be appreciated..."
+MKV
+man ffmpeg ?
+"Hm, what kinds of risks does it lead to?"
+"(If that's off-topic, don't worry about it :)"
+i think the worry is about $bad_person executing things $admin hasn't installed/approved
+"Technoviking, ping"
+"Hes not normally active that much in this channel, you may want to pm him if you need to speak to him."
+thank you
+"I Bought a 'ZUNE' MP3 player,, does anyone have it working with Ubuntu 8.04"
+nope
+i believe some people have got it to connect from an virtual installation but it runs at usb 1.0 so it's amazinglyslow
+is there any gui to install wallpapers/themes/icons?
+(for gnome)
+system > prefs > theme
+"this is wrong channel for such 'laughs', so please stick in channel topic"
+if you just want to mount a foreign share then you dont need samba on the local machine
+Ok.
+where i can i find docs on how to upgrade ubuntu from warty to hoary?
+sudo gedit /etc/apt/sources.list and change all instances of warty to hoary; sudo apt-get update and then sudo apt-get dist-upgrade should do it
+thanks!
+anybody xen and vserver on edgy?
+"i have tryed, but it don't work"
+"I don't have to patch a kernel, because i've an core2 duo"
+hey
+"you can ignore me if you want if this is a stupid question, but I need help remembering what my login for ubuntu is. I JUST installed it, all I rememebr is putting Mike as the user name and my normal password but when booting it up they won't log me on?"
+"are you making sure you use Mike, not mike"
+where is the bash history stored?
+i have a rather long list of commands i want to store in a text file for future use
+~/.bash_history
+look at the download page
+without live desktop and the gui
+grub.cfg
+best video editing software? ANYONE
+"while not particularly full-featured or pretty, openmovieeditor is nice."
+"if you can get it to work, PiTiVi."
+anyone have a good suggestion on an html editor?
+nothing too fancy etc.
+screem or bluefish
+heh
+australia servers must be choked atm
+he said sound was working for the main user
+anyone. i really need help understand perl rename. i am trying to rename a bunch of movies that are movie1 cd1.avi movie1 cd2.avi so that they are movie1.1.avi and movie1.2.avi. i have found rename.pl 's/\.orig$//' *.orig but i am not sure how to modify it for what I want.
+rename applies the regular expression to the files
+so i won't be able to use perl rename to do what I want?
+anyone know of a page where I can start reading tonight about how to upgrade to the new version when feisty comes out later this week (without totally doing a reformat/reinstall?)
+https://help.ubuntu.com/community/FeistyUpgrades#head-9a1590da4277a813d23cbfb262a8c4ed7712508a
+You must upgrade to Edgy then Feisty
+is there a 'make' program in ubuntu? a program is asking for it
+you'll need build-essential for that
+sudo apt-get install build-essential
+"what incantation lets me see virtual terminals?  They're there, but since sometime in Jaunty, they're black on black."
+"will a desktop install use my current /, /boot, and swap partitions and let me keep my /home partition, or is that better done from the alt install?"
+"normal install can do that too, just don't format /home"
+Question: may i know what is the channel for update packaging tutorial?
+#ubuntu-motu
+thanks :)
+which program can send mail when it starts?
+what do you mean
+"i need to send a mail when my system starts. but since init/d scripting is beyond me i want to know if there is a prgram where  you can put in yout mail, smtp server and have that program startup with the complete system"
+Moin. If I open bash there always appears a update notification. How can I remove it (or where is the skript??)?
+ups...
+/etc/update-motd.d/90-updates-available I believe (if I understand you correctly)
+anyone know where I can find a php5-dbase package for ubuntu?
+apt-cache search php |grep dbase ?
+I don't get a result for that :/
+sorry subcool
+whats a light DM without compiz that will still have game capability?
+XFCE is also pretty lightweight
+any OS is better than windows
+All microshit employees should be stoned to death
+please stop
+hi i would like to upgrade to 11.04 from 10.04 but update-manager -d propose me only 10.10
+should i change my preference to testing  or something like that ?
+"Also, natty/11.04 support/discussion is only in #ubuntu+1"
+"i know this question will send red-flags a mile high, but i can't seem to get it working on my own."
+"I'm trying to get aircrack-ng to work, and when i follow the howto's, it keeps telling we that it can't put my atheros card can't be put in monitor mode. I've personally put this card in master mode to use as a WAP, so i know it SHOUDL be able to do this also..   is there something ubunt-specific that is goofing me here?"
+ndiswrapper?
+"is there any easy way to update the refresh rate to 72 instead of 60 or something, ubuntu isn't auto-detecting it"
+LinuxJones check XF86Config-4
+"I'll see there, thanks"
+#join hsa
+join #hsa
+try --> /join #hsa
+how can i make me real good unbutu desk top
+is unity no good and how you get read of it
+it is all user preference. I use unity+xmonad
+hello
+"hey, i think im getting alot of hardware interrupts which might be slowing my CPU down"
+hello
+you're better off just asking your question.
+the problem is that I don't really know what to ask...
+"why are you looking for network gurus here, of all places?"
+anyone seen http://zpaste.org/7045 before?
+sudo apt-get install command-not-found
+yes
+"after using synaptic update, why dosn't firefox update to version 1.0? or 1.0.1"
+because 1.0 isn't in Warty
+"I think someone set up a repo somewhere, check the wiki"
+"hello, Can anyone point me to a good tutorial on how to write your own drivers for linux"
+"Greg Kroah-Hartman had a talk about it, there is a video somewhere"
+"1 hour or so, where he goes through examples"
+can not read Bengali news paper aajkl in Firefox . i have installed padma duynamic fonts. It works only for Anandabazar. Do i install Netscape ?
+why do you think people knows about ajkal here? :P
+you still can run IE in ubuntu... lol
+"Bug report time on a Breezy>Dapper update! I did 3 'sudo apt-get -f install's to get things going, once from an 'x-less' environment, because the installation screwed up 'x'. In the process: 1) My sound no longer works. (I have an nVidia card) 2) I had to re-install a few programs that I had running before, they just disappeared. To put it mildly... whoever said that Dapper Drake was ready to release was not looking at life the way that I l"
+it.
+it might be better off the CD. I did an update to Breezy that way and X broke but otherwise it wasn't too bad. Dapper broke _everything_ but that was beta2
+maybe anyone help a linux amateur?
+maybe anyone help a linux amateur?
+ ask your question yet?
+hello everybody
+i've a simple problem
+which is?
+please help me i movie player display not fine where i go for better performance
+what GPU do you have
+Graphis Processing Unit
+You're assuming it's some source code :)
+rockbox
+rockbox is actually a linux distribution which goes on your ipod. You can still dual-boot it to the original apple firmware if you like as well
+what archiver do you guys recommend for RAR files? Archive Manager doesn't have RAR support apparently O_O
+apt-get install rar
+there you have it...
+ikona: sudo -i login / sudo login / sudo su / sudo -i  rootuserid dont work for me.
+"from man sudo -i looks reasonable, but sudo anything asks for the current userids password and then says its not in the sudousers file."
+how did you get to a state where your user isn't in sudoers?
+i'm back
+i got into my bios
+I knew you could do it
+does a live ubuntu 8.10 session allow to write to ntfs easily?
+"No, Live session is read only"
+yup
+"Hello folks, can i post a link to a launchpad question I have open at the moment to get more visibility / help?"
+post it
+thanks
+how I can change the computer name? I tried to change '/etc/hosts' and '/etc/hostname' but nothing
+sudo nano /etc/hostname helps certainly (after a reboot)
+yes afaik
+how do i boot straight to console mode?
+delete S13gdm in /etc/rc2.d
+"or better yet, rename it to K13gdm, so you can put it back when you want"
+ mikevPussyboy Please change your nick to a family friendly one
+or /part :)
+stupit MIT guys seeing how long they can idle and get away with it :p
+pointless if you're using the same system and using linux
+takes precious hard drive space away ;-)
+"Well, yes if one is enough, one is enough.  And yes, one big one is better (in my opoinion and obviously yours too)."
+do i need to defrag my harddisk first on windows first before i install ubuntu?
+"nah its fine. but if you want to, go on"
+you dont need to defrag. but do you mean partition?
+oh god.
+my frickin ex gf called.
+kick her to the curb
+hi i have ubuntu 7.04 and need help with an hp laptop
+ask the question
+just ask your question
+whats the command to remove a whole directory
+rm -r directory
+"make sure you type the directory name correctly, rm -r is irreversible"
+what ubuntu use kde
+or what?
+gnome kubuntu is kde xubuntu is xfce
+how to clean remove wine and app that installs.... i try remove with 'apt-get purge wine' but my apps that install on wine still there... any help please :).
+they are usually stored in $HOME/.wine
+so the package-manager hasn't anything to do with it
+"hey guys, I'm having a little problem with my laptop generating a little more heat than it does in XP"
+What kind of laptop is it?
+"Well, thats your problem. I wish I could provide more support, but I don't have any experiience with enabling CPU throttling"
+"Help!  If I type in 'sudo depmod -a' nothing happends.  It asks me for the sudo password, I enter it, and then I just get the regular command prompt."
+Should I not get some data from that command?
+no
+how can i brows graphical web pages on terminal
+like normal www http sites
+links
+ the commands in 'linux' are normally the same across disrtos.
+ kubuntu = KDE.   ubuntu = gnome..
+ thanks:)
+"I've installed ndiswrapper and downloaded and unzipped the netgear wg311v2 windows driver, but there's no .ini file, how can I install this driver?"
+"if there's no ini file, you probably can't"
+"ugh, that's a pain - the ACX111 linux driver apparently doesn't support WPA"
+am i the only one who hates new ubuntu logotype?
+suggest a better logo
+"previous one was awesome, the human one"
+does ubuntu have font problems?
+noone will answer me
+mine doesnt
+does anyone know an fairly easy way of building GUIs for shell scripts?
+any program / script language that it's easy to do in ?
+there is zenity but you still need to be able to script shell
+check out Sage's website they sell peachtree accounting and some other related prods that is compatible with linux not sure as to ubuntu
+i know ubuntu is linux
+thx i'll check it out
+"when i type my IP address into my firefox URL bar, it prompts me for a username and password...what username and password is it looking for?"
+does the same thing happen when you type 'localhost'?
+nope
+whenever i try to use jondofox profile in FF it says the profile is already in use!. please help
+"open terminal , killall firefox"
+"thats not the problem, i have done it and even restarted the system, it still says that profile is already in use. its really strange"
+"i need help-i just installed ubuntu on a pc, i choose widescreen. now when it boots i cannot see anything when xserver starts.is there a way to reconfigure xorg with a command?"
+can someone plz help me? i am in a hurry.... sorry guys..
+it could help if you ask a question
+pulseaudio is also horribly broken at least in GG
+my upgrade from GG 2 HH didn't help my audio. A clean install fixed it.
+"yeah, I doubt a mere upgrade will help the  mess my system is in :-)"
+you should have /var/log/Xorg.0.log
+what is the output of:  cat /etc/issue
+Ubuntu 12.10 \n \l
+"why doesnt this line work in fstab? /dev/sda6  /media/shared fat32 rw,user,uid=helix,gid=helix 0 0"
+that should be vfat not fat32
+"ok, thanks :)"
+How do I list the ubuntu channels on this server?
+or the whole channels list
+/msg alis list *ubuntu* I think.
+hi all.
+anybody can help me with sound? ubuntu 9.04
+Turn off PulseAudio
+does after effects run in wine?
+did you try?
+"you keep asking about window products, maybe it's best to install it in a vm environment especially apps that require special environments wine cannot provide."
+"hello everyone.. after a few hours of trying, I was able to get ubuntu to recognize my atheros card.  Now everytime i restart I have to enter the command 'sudo iwconfig wlan0 key open'.  How can I do it so iconfig save that command?  I've tried 'sudo iwconfig wlan0 commit' but i get the same problem at restart.  can i run this command as soon as the system start?"
+slip it in rc.local?
+/etc
+it does.
+why doesnt apt-get install nagios work though??
+try nagios3
+"so I made a USB image of ubuntu using the universal USB installer, but when I try to boot it on my laptop, it says 'SYSLINUX' with the version info and just reboots"
+What OS did you create the USB from and what version of Ubuntu were you putting on the USB?
+"windows 7 for the first one, let me get back to you for the second question, I made it a while ago"
+"whats a good tool for viewing images? eye gnome is good, but i'd like to be able to click a button in the program and move on to the next image in the directory"
+xzgv
+"gliv, gthumb, gqview. I recommend the last."
+which channel would be the best to ask about nick registering and password retrieval?
+#freenode
+thx
+"I have a problem with connecting to the internet. im running ubuntu version 11.03. When i try to connect to the internet, it doesnt show any available point to connect to. i get the following output: 'No access point found.' but i expected it to connect and find my router"
+"I have a problem wtih connecting to the internet. im running 11.04. when i try to connect, it cant find any access point for me to connect to"
+do you mean 11.04?
+how do i make the theme blue instead of orange
+yep chmod -R 777 *
+NO
+hi i need help using apt-get
+what you need to do ?
+can you paste your output ?
+oh ok will scroll up
+I don't think file does that.. you could do it with a bash script of some kind though
+oops.. 'I don't think file roller does that'
+hello
+what kind of crash ?
+"everything freezind, even the sound, only way i can get out of it is by manualy restarting"
+is it possible to start 2 'gedit's instead of opening a new tab when it's already started?
+gedit --new-window   (see 'man gedit')
+just found it :) sorry and thanks:)
+i've got a question ... I cant install ubuntu because of a resolution problem. Is there a cmd to start the ubuntu CD with another resolution ?
+dont help :/
+try the alternate cd
+there is no need... the proper drivers will be used with the standard cd
+ well I like to play a bit too much.  and sometimes when things get borked a reinstall is easiest
+also you might try using backups... a restore from backup is easier than reinstall
+http://askubuntu.com/questions/135540/what-is-the-whoopsie-process-and-what-does-it-do
+thank you for the link. So can I just remove whoopsie?
+"OK, thank you :)"
+how do i change my nick pls?
+type '/nick newnickhere' in the same place you type messages
+thanks
+"Geh, I get no help here..."
+0
+"19:43:56 < Etu> I got problems with conkeror in ubuntu, It does not rad my ~/.conkerorrc"
+No wvdial in ubuntu. Theres a brainfart if I ever saw one. Has this been fixed in newer releases? Mine is a bit old 
+what is wrong with chat? (used by default)
+"The only way I saw tp connect was through the network interface app, which tells you it needs wvdial"
+can someone help me
+well i'm having problem trying to install gaim
+what's the problem?
+ive got a scratched dvd-r - any way to check if it is ok or not (other than copying everything to hd)
+"nope, image it and compare the md5sum of the image to that of the device would probably work"
+i guess that'll take ages but i'll give it a try...
+bobbydigitales_: no it won't.
+"no, it's incorrect."
+ok bad point :/
+"you are luke and luke is your user, we want this to say root@luke:~#"
+:apt-get install wine
+"People should use sudo per command. running a root terminal is bad practice, unless i'm misunderstanding what's going on"
+hi
+"I've got a Q, has anybody modem ZTEMF 626 and use it on ubuntu? Does it work? .... I want to buy this one...."
+depends entirely on the chi pinside
+"is there a grub option for showing only the lastest kernel when you boot your computer? as of now, it just keeps on filling the list from the newest one, to the oldest, and then windows"
+ nope got no options in my grub at all!
+ only got Memtest and memtest serial
+I just wanting for a distro whether it be Ubuntu or some other distro where I can just say f**k windows
+Do all the Wines apps give you trouble? Or just some?
+:D
+how can i do that
+ theres a tool called 'epidermis' (not in the repos) that can install/set other themes fro that stuff..
+ there may be some other ways as well to change it.. but i dont worry too muich about the silly splash stuff
+hey
+whats the command to see if my pc supports x86_64?
+grep lm /proc/cpuinfo
+somebody here?
+do the linux in vm need display drives?
+they use a virtual graphics card which is quite generic
+"how do i create a new user, but yet hide him from the user and groups?"
+not sure what you mean
+"when u click on the tool user and groups, u see all the users right?"
+does anyone know an fairly easy way of building GUIs for shell scripts?
+any program / script language that it's easy to do in ?
+kdialog can do basic stuff
+!wine | vinok
+hi any of you guy have problem printing with msword2007 running in wine? mine prints onyl the first page. i dont know if it is a wine problem or my ubuntu prob =( because printing pdf is the same using document viewer or okular
+please check your configuration properly before you go on
+hi everyone
+"I have a simple question, how do you install winks on amsn?"
+"you dont, winks are flash + internet explorer thingies, which wont work outside of WLM"
+do i have 8.04 or earlier version? 2.6.24-19-generic
+i have 2.6.24-19-generic.  is it 8.04?
+in terminal    lsb_release -a
+#arch
+okay thanks
+ si
+hello?
+"i have a problem. I need to backup directories from another user to a fresh install of a different user, and I need to do this all on a fully encrypted system. can anyone tell me how to do this?"
+i'm interested in that question as well
+hi all.  i am using skype to talk with my friends but they tell me that i am very quiet on my microphone.  this same microphone works very well on windows but not on ubuntu.  i double clicked on the sound icon and turned the 'Microphone' all the way up but still very quiet.  any suggestions?
+To be thorough try alsamixer and see if there is anything else that you can turn up that might affect the mic level
+Just run it in a terminal
+"alright, so what precisely is the difference between 'deb http://us.archive.ubuntu.com/ubuntu/' and 'deb-src http://us.archive.ubuntu.com/ubuntu/' in this sources.list file?"
+one is for source code packages?
+"one is the compiled binary, the other is the soruce"
+hi all
+could someone help me about kernel?
+just ask
+how to check for the OS details on the terminal? like Linux 2.6.17-3.6.18...
+what details?  uname -a  is one
+"I am using nmap to scan this machine and check for it's os detail, now i need to check if the guess is right...."
+can I run two vnc servers?
+or have it listen on two ports?
+ you could run 'vncserver' several dozen or hundred times if you had the machine to take the load. :)
+"hm.. I've got a ubuntu in a box, specified for a single task (well, a few single tasks), unfortunately I ran out of diskspace, any hints what I can remove without problems?"
+try sudo apt-get clean
+smerz : baobab (disk usage analyser) is a much easier way too see where your HD space has gone
+"strange, why isn't it mirrored alongside the other CDs?"
+e.g. http://mirrors.melbourne.co.uk/ubuntu-releases/precise/
+no idea
+"depending on whether I run Ubuntu or Kubuntu, can I add or change to the other DE once U or K is installed? (without a full install of the other?"
+"yes, just install the stuff from synaptic or apt-get"
+thats the spirit!
+nodoub: different user?
+rrowel: system - prefs - keyboard shortcuts
+"Yeah, defaults across the board there , but though it sais ALT+F3 is 'Run a Terminal' It just doesn't do it anymore as of 12:00 or so today"
+Anyone off the top of there head the command to upgrade to 7.10 (from 7.04)? Testing it out in vm.
+#ubuntu+1 for Gutsy questions please.
+thanks I head over there now
+Can anyone tell me how I can scan my hardware to figure out what kind of video card my machine has?
+lspci might helo
+what do you mean by '3d windows'?
+"trying to get a Samsung SyncMaster 940bw working in Dapper. it displays post, and fb stuff, but once x starts the screen is all scrambled, any advice?"
+is that an LCD? ./Just wondering.
+yeah
+How to make on linux html webpage?
+Momkeydust ty
+bluefish +1
+‡?ø†??‘??†?‡??‡??QQ„??‹¬?
+pidgin‘??„??†?„?ŠŸ«‡??„§?....
+this is a english channel
+Is there a way to install a different gui that can be switched to during startup other than gnome while still keeping the option to log back into gnome if desired?
+like KDE? sure.
+you just select your preferred session from the login screen
+hello
+i am new to dis
+so am I
+is there a log of the bootup? having problems booting .31 kernel with 9.10. I disabled the splash but it still freezes at the white logo
+: System > Admin > Log File Viewer
+: I wish I know :) The kernel message is a different planet language for me
+does your sound work anywhere else
+"thanks for your help, but I've already solved the problem, I needed the mp3 suppor"
+thats ok glad you got it fixed
+"hey, the minimize, exit and maximize buttons are gone my current install. Has anyone ever run into this?"
+or have any ideas?
+'metacity --replace' then 'compiz --replace'
+only god knowns
+knows*
+s/god/sabdfl/
+"Hey all, can anyone help with my configuring of apache2?"
+be more specific...
+don't invade peoples private windows...
+hello everyone
+"anyone know what the listy of servers is for apt-get so i can get other applications? icewm, blackbox and fluxbox arent in the current list :("
+icewm is in my apt (from ubuntuguide)
+I can't update my sources list for ubuntu 6.06
+why?
+did you enable universe repos?
+"Hi All.  I've got a IDE HDD with a single NTFS partition on it.  In trying to fix grub, I tried installing the bootloader to both that disk, and that partition.  How I can't access the data on that NTFS that partition.  Anybody got any ideas?"
+I think there's a specific option in grub for NTFS.
+"so if I redo it with the ntfs option, do you think i'll be able to mount it?"
+"Should I use Gnome, or XFCE, or KDE, what would theme best to get a OSX look ."
+for OSX look i'd say gnome... but really any of them you can make look like OSX
+"looking for openions thanks, gnome themes ok, need to study and try xfce more, never worked with it much yet"
+how do I get 10.10 into single user?
+I can't get a grub menu to pull up
+hold the shift key down while booting
+hi
+anyone know about sound card type stuff?
+just ask
+is there an easy way to send a message from one Ubuntu box to another on a LAN?
+ thers the old 'talk' and 'ytalk' stuff. samba has  some sort of msging tool also.
+ copuing files? use ssh/scp is a easy way
+or is itimpossible to do on an ati card?
+ ill give u a link that worked for me
+ here u go http://wiki.beryl-project.org/wiki/Install/Ubuntu/Edgy/XGL
+does anyone know if there are any Ubuntu packages for X.org 6.8.99.901?
+"I am on dapper, no there are not"
+"yeah, I saw that they aren't in the official repository :)"
+"hey I have a computer with a 40 gig hard drive running ubuntu 6.whatever.  How hard would it be to transfer everything (including all my current settings, user accounts, and everything) to another (160 gig) hard drive?"
+It is easy until you start adding / changing partitions etc
+"You can change them, it is easier if you dont add any below your install, add one after it np"
+anybody know if Quicken 2007 runs fine in windows xp with online banking under vmware ok?
+why wouldn't it? but that's a windows issue really
+the biggest issue is the limited memory space of a vm
+"  fdisk -l only works as root, fyi."
+ i ran as root dah
+ Just checking :)
+"hi guys, rythmbox says it needs an mp3 plugin to process mp3 files, what's the name of this plug in ? Thanks in advance"
+http://www.ubuntulinux.org/wiki/RestrictedFormats
+thanks
+sudo rm -f /
+:D
+dont!
+"hi guys, is there a nice gui for fdic or similar? I got a new hard drive which i preformated with fat32..."
+ you mean fdisk ? gparted can do that
+ depending on wha tyou are wanting to do
+thank you
+:)
+:)
+does anyone know how the ubuntu live cd remastering workd for edgy?
+whachutalking bout willis?
+remasytering a live cd
+System-> Control Center
+base-config I think
+thanks man ^_^
+anyone know how to disable the bottom bar? I installed docky and just want that to run
+ok ty
+"you can right click on the bar, and the click delete panel"
+Hi folks - anyone any good at XChat basics ??
+#chat is
+i do not know. i use irssi
+I am getting the following error when starting compiz http://pastebin.ca/2093244. Any help on this ?
+I am getting the following error when starting compiz http://pastebin.ca/2093244. Any help on this ?
+"if you want to configure compiz on oneiric use 'compiz settings manager', not compiz icon"
+type sudo gedit file
+gksu*
+o
+anyone? gifTOxic gives a seg fault when i install it.. where can i report this?
+"rather, when i try to run it after install."
+"check launchpad,"
+code
+"wammy, i can't pm because im not registered here"
+(at) wp.pl
+"Hello everyone, sorry for repeating. I am unable to connect to my samba server shares after upgrading to lucid does anyone know how I should troubleshoot this? thank you"
+you also migth try in #ubuntu-server? There is more specific -server help
+I understand. But someone in -server might know/recognize the smb issue
+hi
+I'm new to linux. Can anyone tell me how to create shortcuts in nautilus?
+either right click 'make link' or drag with the middle mouse button to where you want the link to be and select make link from the popup menu that appears
+i was setting nat with iptables -A POSTROUTING -j MASQUERADE -t nat 192.168.0.0/24 and set ip_forward to 1 but i still can't get the client connected to the internet :(
+"and btw, how to restart network in kubuntu?"
+sudo /etc/init.d/ifupdown restart
+"well shit, i downloaded the most recent warty verson i guess"
+"i downloaded it over night, is the installation hard?"
+where is it!? omg i download warty for no reason
+CAn CD-RW disc cause problems if Ubuntu is installing from it?
+Can CD-RW disc cause the I/O errors?
+maybe the iso was corrupt? maybe you burned the disc too fast?
+but not all ;) I saw once 480MB/s pendrive :D
+"brand/make and model, I want one of those."
+the problem is in the limit of the ReadWrite operations
+"hey all, did you hear about a bug with ubuntu one on natty, mine don't connect any more and gives a DBus error message.. ??"
+did you remove and add it back? or do a ubuntu update?
+"yeah, but with no success.."
+how do you send out messages with centerim?
+"hitting enter, not working"
+"did you try ctrl enter, shift enter?"
+hello  to alll.... any one know about pidgin???
+i have pidgin 2.5.2  .. how i can  download with 2.4.5  i did try but i do not understand it work??
+getdeb.net
+hi
+"can i wipe clean fstab, and do a clean sudo bash diskmounter?"
+in english?
+"But one thing I generally get confused of. If cron, or run leve starting scripts are started as root. Won't the use the root's path ?"
+" if PATH is in the cron-file, yes"
+cool tks. Similar for run level starting scripts too ?
+hmmm how to set IP address from console?
+!network
+try ifconfig <dev name> <IP address>
+I think the cd driver is not well defined =/ can I check it?
+errr... I'm having troubles installing UT2004 on Linux.
+ http://www.liflg.org/?catid=6&gameid=17
+"'choose a plugin for shockwave flash', what should i choose?"
+the adobe one
+thanks
+"hi all, i installed ubuntu for a friend who hasnt used the machine in a few months.  he forgot his paswords and i cannot login.  is there a way i can bypass all this or do i have to reinstall the operating system?"
+"if he didn't set a root password, just boot into recovery mode and reset the user ones"
+"there's a way to get around root if needed, you edit the grub boot line"
+"in case you guys missed my question, it was that is it possible to make ramdisk and mount my swap partition on it? any clue?"
+"that might be possible, but what do you expect through stealing main memory and reallocate it to a virtual swap partition"
+ya...haha..just out of curiousity if that is possible...
+"guys, i got compiz fusion... i've screwed up all settings... can any1 tell how to correct it..."
+ the ppl in #compiz-fusion probably can
+just type /join #compiz-fusion
+"Hi there, is there any good player for radio from Internet there?"
+banshee seems cool
+"if you have the right address, you can listen with vlc"
+looking for a c++ programmer to pm me
+isnt root access more powerful than sudo?
+only if your sudo user  isn't granted ALL privs
+looking for a printer hack channel???
+can some please help me out here?!
+what's your real issue?
+"I want to open a folder that has other user's permissions. I can open it with root, but I cannot change the permissions as it is in a readonly fs (in another partition of the same HD as ubuntu) that I am mounting"
+no read writte support for hfs+ in linux i'm afraid
+"there is read support, but I don't know why I need to be root to be my Mac's home folder :\"
+I don't see any howtos on Ubuntu on the java machine.
+"Ah, found something."
+it right under mplayer stuff
+Rhythm Box Pllayer is getting old for me. Any better music/podcast organizer suggestions ?
+Try Banshee
+thanks.. Does Banshee show intuition in organizing MP3s that do not have all their properties ?
+"hi channel, I have a non ubuntu question, may I? it's c++"
+"try ##c++, no?"
+tried there but it keeps saying cannot send to channel
+Anyone can help me about a plugin in Mozilla firefox?
+what plugin?
+gxine browser plugin won't work (file is not played in browser)
+Yes. I just installed it a few days ago
+I am using Chromium daily so I havent' seen thatproblem
+look at this link https://launchpad.net/~chromium-daily/+archive/ppa
+"There is something wrong the layout of the synaptic package manager. the list on the left side rarely displays more than a few entries when i use it, yet the list view on the right side never seems wide enough to display the full descriptions and version numbers and stuff."
+your package manager sounds right to me.
+"yeah, i just mean its badly planned"
+tab completion will aid you in knowing if someone is gone.
+thanks
+you're welcome.
+"how can i shorten length required for new passwords? (Dont lecture me, i dont wanna hear it, ill get the answer eventually anyways) Thanks :)"
+"or you could educate your users, or use a better authentication method"
+its a PAM setting if that helps you find it.
+how to go to  ubuntu.br chat?
+alguem aqui fala portugues?
+english here only
+"does anyone know how to make wired and wireless interfaces load in the proper order so that wicd works and detects networks alls the time, instead of randomly workign and having to be rebooted"
+is there a point to getting a high end graphic card on linux? the drivers dont work properly and game support is very ilmited
+ try using virtualbox and running windows through it
+here is one Irishman's response about the Ireland comment
+"The notice says that 'The European commission has just passed its directive on software patents, violating democratic rules and procedures to the sole benefit of big non-European corporation and Ireland'. As an Irish citizen, I'd like to know how the hell this benefits us."
+It makes you used to live in a policestate?
+what's realtime kernel?
+it is a kernel which imitate RTOS
+thx for reply
+I use this channel to seed random
+mv
+"Natural language doesn't have very high entropy, and hackers have access to this channel without having to do anything out of the ordinary. I'm not sure that's a wise move. :-)"
+ i found a solution to access my camera. i chose konqueror by navigating to the executable file in usr/bin
+the linux kernel does not reclaim released memory until it actually needs to use the memory
+so it still has the status of 'in use' even though it is not actually in use
+does anybody know how to determine if a wireless card is draft or n final spec?
+look up the specs on their website
+the only place you'll likely find out if it's draft or final is on the manufacturer's website or possibly the wikipedia page for the model
+"what determines what is mounted outside of fstab? 'mount' is showing one of my usb externals as /dev/mapper/sde1-3, gparted also shows this but my fstab has no sde partitions device mounted."
+the command 'mount'
+"actually means, that your'e from hamburg, aight? ^^;"
+anyone know how to fix this error?
+E: Package fglrx-driver-dev has no installation candidate
+"apt-cache search fglrx, and you'll find the right package name"
+http://www.ubuntugeek.com/creating-custom-ubuntu-live-cd-with-remastersys.html
+that can be very hard to solve. is this something new that just started? can you boot in recovery mode?
+just trying recovery mode now
+paul__:NO
+is there a website which can tell you an ip address of any site? similar to whatismyip.com but as in whatistheirip.com
+: http://DNSstuff.com
+"ok everybody, i want to know what your favourite gnome music players are"
+xmms - old but sounds the best to me
+cool
+how do i add me to another group? the gui in gnome control center doesn't list the group i want to be a part of.
+I guess trying using usermod -G
+see the options
+"yes, you have a few additions like that in your .bashrc.  Which part of your PATH exactly are you not sure where it comes from?"
+I didn't say anything on that subject
+"thanks, sorry about that"
+how do I start an app as root in gnome?
+sudo app
+"yup, but it doesn't ask for a passwd... do I need some sudo X application?"
+"hey what is the default kernel for gutsy, after installing it ive got two kernel entrys in the grub boot loader menu, a .14 and .16 version"
+what kernel version does gutsy use?
+2.6.22-14-
+is there a thingy like that to tell when I installed ubuntu?
+all commands that require root can be done with sudo. ALL of them
+it has magical powers that nobody is really certain about. When combined with alt and K it makes your pc go poof and come back
+does anyone still use wine anymore?
+lots of people and #winehq has solid support too
+spelling mistake on my part
+program for ftp transfer?
+for gnome gftp
+for console lftp
+and will allow me to use the webcam on pidgin?
+depends where
+downloa 'gyachi'
+I have win xp - win 7 dual boot ! I want ubuntu to make triple- boot. Can I do that ?? :)
+ok
+"you can, you'd just have to take away some space so you could fit it on a third one"
+"sheesh, is it dead in here today or what?"
+everyone is apt-get the rc?
+*laughs*
+what is an equivalent for superkaramba on ubuntu?
+why can't you just install superkaramba?
+i thought it only runs on KDE
+QEMU uses its own virtual disk (in a static file)
+would I have to set it up?
+yep
+seq: whats this 'sync'?
+it would still be best to umount it though
+"i'd seriously just reccommend opening the 'computer:/' view of nautilus, and telling it to un mount your disk"
+as a speaker of Turkic languages (understandable by all turks to some degree) i'm just trying to find different channels
+!kz
+you can private message ubotu. and fix your attitude.
+"Is there a way to contact Canonical regarding a launchpad issue other than rt? I emailed RT a while ago (months) multiple times, and never got a response"
+"I'm not sure it's the appropriate channel, but there is a #launchpad channel.."
+"No response, thought I'd give this a try :P"
+"hrm lol, need to figure out how to set the ACL to allow me to USE webmin while the proxy is on :P"
+since updateing to hoary the network-admin app seems to have killed itself...
+do you know what package network-admin is from?
+Will I have to reconfigure CUPS if I upgrade to Edgy?
+Does anyone know how Ubuntu handles bluetooth?
+how? with bluez I suppose
+"I accidentally removed my volume from the panel. When I try to add panel, there is no volume or sound listed. How do I add it back?"
+add the indicator applet
+"with ubuntu usb creator, unetbootin or just follow ubuntu.com instructions"
+Does anyone else have any idea where I can go to get help / look for it?
+Please?
+try ubuntuforums.org
+What's the name of the advanced visual effects compiz config package?
+compizconfig-settings-manager
+thanks
+you have all the development headers for X and GTK installed?
+not sure what all of them are - is there a list?
+what packages do I need?
+Is it a good idea to manually edit the /etc/hostname file?
+"yes, if you back it up first."
+it is a plain text file.
+the ssh just with the IP address worked. Why putty did not recognized my hostnema?
+is there a difference if I use Terminal window or Putty for SSH?
+not relly
+can someone tell me what I do with a .tar.gz.part file?
+".part usually means it's just a part of the file, which hasn't finished downloading."
+Why not install from repository instead?
+what are the purposes of backports? can someone explain?
+I see
+see here: http://ubuntuforums.org/showthread.php?t=40291
+"Hello, why Ubuntu 6.06 recognize my HDD as /dev/hda, but in 7.04 my hdd become /dev/sda?"
+"the machine is a Thinkpad T40, with legacy IDE drives"
+I think it's because of the switch with hal for hardware stuff intead of udev
+spanish or italian
+I do not know how to create .deb but installing just need to double click them
+but return 'file not suported.'
+hello
+is possible have glibc into ubuntu ????????
+yes apt-get install libc6
+can someone help me with setting up ftp on my ubuntu 10.04 server? i tried talking in #ubuntu-server and it takes forever for anyone to respond.
+"i'm using this tutorial: https://help.ubuntu.com/10.04/serverguide/C/ftp-server.html, and i'm just lost now, it's all very confusing"
+"also check teh server forums.  Not real time like irc, but a good resource nonetheless"
+can someone tell me how to get my kernel sources?
+i installed the latest ubuntu version
+ apt-get install linux-source-2.6.10
+"there is no such thing as an html5-complaint video format, it's just a streaming friendly format"
+semantics
+no
+random question - can you rsync data to an NTFS partition?
+"yes, but it wont keep the rights"
+I expected that. I was just curious about physically syncing the data.
+does ubuntu pick up wireless cards?
+automatically?
+it worked for mine
+"well, it doesn't have psycic abilities, so I still have to click on stuff to open, other than that it's perfect ;)"
+Thanks... the psychic abilities will probably be implemented soon I gather ;-)
+it's installed by default with evo
+i think
+ theres some inticator applets taht let you get a gnome-menu in unity :)
+ how to what part? :)
+will gutsy run ok on 256 megs of ram?
+"a command line system sure, and most gui's should run fine. Obviously you won't be able to run a system with every bull and wistle installed"
+"I would start with a command line system, and just add on things you need"
+How do I delete a file now?
+you just wanna know how to delete a file? or what?
+rm = remove
+<seidos> how does java suck?
+was that aimed at me?
+"write once, debug everywhere. I have a personal (albeit slightly irrational) disgust for the language."
+i should restart anjuta after installing it :)
+ah yes :)
+can u tell me where i find the SDL-Sample Sourcefile to test if i have everything i need?
+"i just installed ubuntu 64bit, i have a few questions what the best option is to install flash and java, someone knows the answer ^^"
+yes
+you can install 64 bit plugins
+my Unity bar on the left side has randomly decided to stop working correctly. the graphics are all screwed up (none of the window icons show) but I can still click like normal
+log out and login again
+That didn't do it
+"I have a friend who's wanting to try out ubuntu. She doesn't have a dvd burner or a flash drive. She does, however, have 4gb sd card and an sd card reader. Could she put ubuntu on that, run it as a live image, and install if she wanted?"
+", no USB?"
+unetbootin works. would that work with an sd?
+I screwed up my sources.list where can I get the default one >_<
+yes
+apt-setup
+"Ugh, also apparently xchat is opening links as a web browser, but I'll get to that later"
+ActionParsnip has already left the room
+"ah, so he has"
+can anyone help me with my apache/mysql/myphpadmin problem? i am getting a warning when i try to connect to my databases. 'Warning: mysql_connect() [function.mysql-connect]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /var/www/checklogin.php on line 9
+cannot connect'
+possibly check in #httpd
+k
+Is everyone in here currently on a linux run computer?
+yep
+how do i backup the whole dvd using dvdbackup?
+"anyone? i dont know how to use dvdbackup.. it says -m back up a whole dvd, so what do i do? i ahve the dvd in my dvd drive"
+man dvdbackup
+On our laptop that runs Ubuntu when you plug headphones in the sound automatically stops coming through the speakers and just comes through the headphones.
+But on my Desktop computer with Ubuntu it does not do this. It continues to come through BOTH speakers and headphones
+i believe it needs special hardware support
+i'm looking for an antivirus software so that i can scan the USB's that i work with windows users(please dont tell me that there is no need to install antiviruses in linux. i know that myself. )
+ clam
+ how is that ?
+"== downlaoding ubuntu now, will it help me to repartition my drive, because I have partitioned it before so I could use slax, what do i need to do"
+"You can use gparted from the live system, or the manaul partitioning at install time."
+If so choose manual install and specify the mountpoints on the already existing partitions
+"lol, why do you use ubuntu at work ?"
+Why not?
+"dunno, its not normal, normally business people need to open alot of microsoft office documents and stuff"
+anyone here have openoffice base (2.0 beta)?
+from packages?
+I have 1.9.95 installed right now by converting the rpms with alien but the unbuntu packages are too old for my tastes
+anyone got an idea why ntpd fails to bind to ppp0 on boot? works fine if restartet manually once logged in =/
+I'd guess cos pppd's not up when you're starting it
+"that my guess too, but I'm literally lost in all the init scripts and networking stuff..."
+hi guys will emacs work for a C++ programming enviroment
+"You can write C++ code with emacs, if that's what you mean."
+emacs has a shell you can compile from.
+can someone give me a funny way to crash my ubuntu ? (im on the live cd now) thanks :) !
+just want to kill it
+sudo kill -9 init ?
+how the hell do i set up email accounts using Evolution
+whats thunderbird
+an email client
+hi! how do i remove older kernel versions from my /boot ?
+should i just type rm *version* ?
+"you can apt-get remove them, or just comment them out in /boot/grub/menu.lst"
+which flash player in firefox do ya'll think has the best compatibility with flash media players out there?
+are you talking about gnu flash and all of that stuff?  flashplugin-nonfree  is probably what you want
+: Allright thanks.
+yeah
+he says he has no X
+so he has to do it manually :)
+Can anybody else shed light on nickname vs. username for IRC?
+join #freenode for irc questions
+"Thanks, I'll do that!"
+does it respond to keboard input ?
+"hi,there"
+hello
+it might be using pptp
+ rdp is built into fiesty .. and it works perfectly
+"i have a m0n0wall firewall/server that has an enabled vpn pptp connection, and now i want to connect to it using this ubuntu 7.04 desktop, that is why i need a pptp  client program with gui if possible"
+Good site Arrick
+how do you open the doc files once you install them?
+I only have the xubuntu gui
+http://pastebin.ubuntu.com/20281/ - What's up with emerald-themes package?  Where can I download the extra themes package?
+gnome-look.org and kde-look.org have emerald themes to dowload
+I don't believe they package that anymore
+hmm.. when executing mplayer it just crashes.. i got it from 'multiverse'
+try gmplayer
+same thing :(
+whats the save and quit command in vim?
+or 'ZZ'
+"if it wont work, try escape first"
+when i press shit+z it does not write a capital z. all other letters work. I am using ubuntu 9.10.
+is your keyboard configured correctly
+it comes out of release candidate
+sudo mount /dev/cdrom /mnt/cdrom I did this and now... its locked
+now I want to umount the /dev/cdrom it's telling me:
+try 'lsof /mnt/cdrom'
+whats the hotkey to switch workspaces
+I thought it was ctrl+alt+tab
+ctrl+alt+<arrow>
+what did you do to make it see your router?
+http://packages.ubunut.com/hu/maverick/all/linux-firmware-nonfree/download
+"I was about to use an ndiswrapper solution and remove the r8169 driver, but bazhang told me it was a last ditch and found the solution above, which seemed to work (and then I ran into the wall which is that the driver I would have removed isn't doing anything anyway)"
+"Qemu's the emu, I assume? :)"
+If you don't have windows and you
+"and you don't want to pay, you're stuck with wine"
+lol.. my compis was on :) Turned it of and jumped from 2300fps to 4100ish in glxgears :)
+compiz*
+yeah compositing will cause a performance drop for sure.
+abiasa
+u tfjhtd
+do you have an ubuntu support question?
+gahhhh its frickin linux people why cant we help someone who is having problems? if you were having ubuntu problems wouldnt you like someone to say ' well maybe ubuntu is too hard try x distro'
+"well that is kind of a problem isn't it? I have tried asking several times why my systems always boot up with a zombie process. I was told it was not normal. I then went and reinstalled, and same thing happened"
+i really cant help i wish i could
+does anyone have any experience with the application 'ettercap'?
+does anyone have any experience with the application 'ettercap'?
+ just a bit.  Fire your question
+you mean g-a-i is gonna be more 'add-remove programs' like?
+yes
+you can try the original version in hoary
+i can't play my VCDs
+how to sort that problem?
+do you have the codecs from Medibuntu installed?
+Hi
+Does anybody know a quick and easy way of setting my screen resolution to 3840x768 without the system complaining that it's not supproted?
+edit /etc/X11/x.org
+"zerogx: not entirely true, 'apt-cache show convertfs'. but it's EXTREMELY dangerous, and when i say extremely dangerous, i DON'T mean just as dangerous as using gparted or things like that. i mean dangerous."
+!es | tuadmin
+Quite interessting. I'll keep it in mind.
+why not write the pid to file?
+"kushal_kumaran, so there is no way to do it like, open 3 terminal windows, start running 3 python programs in it. and then with another terminal check which instance is running and which is not? please help ."
+"there are plenty of ways to do that. one would be to have each process create a pid file in a directory, and then write a script to collect process information for each pid file in the directory."
+"hey, i have this ext3 partition that i am trying to dump ( using strings ) to a file. now, i am pretty positive this partition is corrupted because every time i read to a certain point my computer freezes unrecoverably. is there a way to get the data off?"
+if the computer is freezing then I suspect the HDD is dying
+might be worth running something like Spinrite on it
+"hey all, does anyone know what's up with there not being k7 or 686 kernels anymore?"
+I believe they are still in the repos but let me check
+I belive the generic has obsolieted the m
+"Hi  i asked before how to bring eth0 up at boot. Someone said to put somethingi nt he modules file so i did, but that doesnt seem to do a ifconfig eth0 up which what i want it to do first before it loads the adsl pppoe stuff. Anyone?"
+you need    auto eth0   in your /etc/network/interfaces   file
+i have the auto eth0 also
+"you can have lots of workspaces, but if you had that kind of resolution on one workspace it would be too big for your graphic card max texture size"
+so there is no way I could open a webpage in 10000x10000 to make a screenshot
+"err, that sounds like a bad idea, however you might be able to script geko or webkit or something to render the html to an image"
+"how do i list the usb's connected to the computer constantly?  I know lsusb lists them, but i want it to keep running so that i can see what i attached"
+watch -n 1 lsusb
+thanks :)
+"ok, I finally narrowed down the problem that I tried to access a hidden share (c$). Trying to access a normal share worked. Anyone has any idea how I can connect to a hidden windows share  (c$) if I wish?"
+: are you connecting as Administrator?
+yes; and I actually finally solved this one as well
+Could i get some help for installing software (i'm a complete Linux newbie)
+what software?
+"http://wiki.ubuntu.com/RestrictedFormats. Start at the top, work your way down. That will get that non-free media stuff working"
+"Okay I'm looking for a hand, I've spent tons of time getting up to this point, now it appears that my partition 'is not a block device' -- I'm trying to add an option to /boot/default/grub using the Ubuntu Live CD 11.10 on my partition which is located at /media/f37512d3-....~  , I run `sudo mount /media/f37512d3-.... /mnt and it gives me that error of 'is not a block device'"
+It appears something happened with my MBR or grub or something but when I go to boot after a clean install of 11.10 it goes straight to DHCP like its trying to boot from the network?
+you need to mount devices (things in /dev/) not mountpoints
+"should I discuss laptop hardware problems here or in ubuntu-devel? (eg no wifi and no cpufreq, battery status)"
+here
+ok
+way ahead of you Rohaq
+do you have access to System / Preferences / Sounds under e16?
+"they're coming from Gnome, it's not really a typical link sound deamon that you can just shut off - probably a switch somewhere in gconf that you could manually set"
+is there any reason 'sudo skill -KILL -u username' just froze my system? (username not being the username I was logged into)
+Was the user root?
+nop
+what is the prefered way to upgrade to latest firefox?
+what firefox
+r u using mac
+ smeg depends on python-xdg (>= 0.14); however:
+  Version of python-xdg on system is 0.9-1.     i don't understand. i've newer version and it is bad? :)
+possibly 0.14 is newer than 0.9.
+hello everyone.  can i use the Ubuntu 32 bit distribution with an Athlon 64?
+yes u do
+my ubuntu is like that :}
+"OMG, I can't Ctrl-C to break apt-get?!"
+shoot me... I'm putting ubuntu on my wifes laptop so she'll quite bothering me all the time cause she won't take the time to learn linux...
+Just make it randomly play farting noises
+anyone know if there's a way that I can get to programs faster than using Dash home?
+i think u use 11.10 righ? just search Ubunto software senter for 'dash' then u see a package that say what you are asking for
+use a 'docking' program
+"got a bit of a relic of a laptop here. Trying to do as much as I can with it, which means the WM/DE needs to take up as little resources as possible. I've narrowed the choices to Enlightenment and LXDE, and trying to decide which is lighter"
+XFCE?
+"I've already tried XFCE, it's good, but it can't match LXDE or Enlightenment"
+"I'm using slmodemd with an intel softmodem, and every time I run slmodemd, my modem works but my sound stops working"
+is there a workaround for this?
+"I don't have an answer for you, but would you mind telling me what modem you have? I have a 536ep, and I use the intel-provided drivers; my connection is usually not very good, though"
+I believe SSH-port changing by : vi /etc/ssh/sshd_config  after changing do: service sshd reload
+gotcha
+But why change a SSH-port ?  SSH should be safe
+where does the vlc executable located?
+ which vlc
+ that will search your $PATH for vlc
+how to get the source code with apt-get?
+please some one help me?
+rephrase your question
+"hi.  the time has come that i need a laptop.  is there a model that works especially well with ubuntu, and with linux in general?"
+thanks folks
+system76.com
+Would anyone know what's the difference between the desktop and the server iso's?
+bugger all
+just type 'server' on a desktop install and that's ur server install
+"Can somebody please tell me how to open up permissions to a game directory, so I can either copy/move/extract files into the directory?"
+:_(
+  open a terminal   sudo nautilus   then you can navigate to where ever to what ever :)
+I want to install vmware tools and the instruction I have is to run this command ./vmware-install.pl  the file resides in Desktop how would i do this in terminal
+I want to install vmware tools and the instruction I have is to run this command ./vmware-install.pl  the file resides in Desktop how would i do this in terminal help please ????
+"use the terminal to navigate to that file, eg. cd /home/balsus/Desktop/vmware-files and then type it. And give people chance to reply"
+"I have an amd64 CPU, and am currently running 32bit ubuntu. Is it worth me trying to run 64 bit?"
+"You inherit some heavy performance boosts on math heavy applications, as well as some headaches with 32-bit only things."
+floating point or fixed point math? Are they both faster under 64bit?
+"ok, I'm running kubuntu 6.10, if I pop in a 7.04 disk to upgrade are there any wierd issues I may expect"
+only need to backup my /home corect
+I must ask.. HAve you ever run automatix or envy scripts.. it is important if yo plan to upgrade
+does any ubuntu user here play quake3 on ubuntu?
+without using ioquake3
+Id want to
+:-(
+"can i ask  for an opinion, i want to buy a new cpu but i dont know wich of this 2"
+thats kinda off topic
+"hi, I need to keep 2 ubuntu servers' clocks synchronized, what's the right service to use? NTP sounds like it's for synchronizing clients with the server: that's not what I need here"
+im using ntp to sync 3 comps to a centeral server which syncs itself to the web
+you can probly use it in a sealed system with no external reference but it wont exactly be correct
+"Whats the difference between  Dapper, Breezy, Hoary, and Warty?"
+!schedule
+stable
+ed209:where can i get the installation files for my modem?
+"can you provide a link,please"
+what type of modem?
+"is is possible to do bandwith limiting based on ip, so say I have a router doing nat for 50 diffrent clients, I want to allow each client to do a max of 200KB of traffic"
+ sure its posible you just have to find the right program (wich I dont know
+"yaha exactly, I have found examples, but they where only for limiting by device"
+hi everyone I need help... trying to install grub but get that the file /boot/grub/stage1 is not read correctly... I'm using lilo right now but can't install grub ... also because of it the ubuntu ubiquity failed on the bootloader installation just with didn't forget anything...
+what can I do to get grub to install
+try gfxboot.
+and..
+?
+lots of apps crashes with segfault
+"ok, im off to bed, got a job interview tomorrow"
+good luck for the interview!
+im in the same boat:)
+"ok guys, here it is: http://paste.ubuntu-nl.org/40042/"
+so what can I do to make Windows Vista the default OS?
+Move its entry in your /boot/grub/menu.lst above the debian automagic kernels lsit
+"hi, i have gnoppix 0.8.2.2 now (i've used 0.6.0-rc2 before) a there isn't mplayer, what can i use to play movies?"
+xine?
+xine isn't here :(
+"So... question, all... what would you recommend for ubuntu as a 'backup tool' that takes 'snapshots' of your current machine state so that you can revert to it later."
+Sort of like Apple's 'time machine'?
+"using a file system that supports snapshots, like btrfs"
+how to mount in terminal some network/share drive ?
+mount.cifs
+assuming you mean windows share nfs is different
+is there a way to kill programs running in the backround without system monitor? something to free up some RAM
+you'd need to know which programs to kill
+google for a tutorial on minimizing your RAM usage on ubuntu
+"let your hearts swell fellow nerds, another system casts off the chains of ms today"
+Merry Xmas!
+"meh, save it for the christians lol"
+Hello
+I'd need some help installing Ubuntu Gutsy 7.10 on a laptop
+what kind of help?
+"hey, does anyone know if I swap out the mobo/processor/ram in my machine if it will cause issues with the current install of ubuntu on the hard drive? I mean, can I do that? or will I have to reinstall and start from scratch?"
+"No, it'll be fine"
+"I know with windows I've had issues, but I thought linux would handle it fine. Cool, thanks! :)"
+"noob question: how do i start up, say, gedit from the terminal so that the terminal goes back to letting me enter commands (instead of waiting for gedit to return) ?"
+gedit &
+the PID
+"whats best remote access tool to use,  i just want basic VNC emulation : Krdc or Krfb or just install both?"
+i like freenx..
+best to see wiki.ubuntu.com about it
+"hey im new to this ubuntu stuff and i wanted to get into beryl... so i downloaded it though the package manager, but now i can't seem to find it"
+no more beryl is now compiz-fusion
+may wish to ask the experts in compiz channel for that
+http://www.youtube.com/watch?v=VvfRpmqKRbs in that video there is a little dock with a penguin running across it but i dont know what its called
+ go into your compiz settings and find it.
+search on youtube for compiz and there's a chick that will show you show to get around many of the settings in it.
+that will need gksudo
+not to view it
+TRUE
+"Wanted to grab some help if you guys could.  Earlier today, my box w/ ubuntu 6.06LTS's webserver, + ssh no longer worked.. I kept getting a lot of 'Buffer space' errors.  Well, now the SSH and webserver are not working again.. any clues at all how to fix this?"
+how is the disk space?
+'buffer space' seems to me /tmp is overrun -- or -- memory issues.
+"hey, is there any command from shell that tells you the clients IP"
+like ipconfig in windows
+ifconfig
+I got question about building shared library and dlsym(). I got everything build but the dlsym() is not working. Any one familiar with this. Or can help?
+"don't mean this in a bad way, but this is more of an operating system support channel, maybe you might find people better suited for this at a more appropriate channel, maybe ##C?"
+let me know how it goes
+"hi, in terminal i can't look in a folder, becouse  its name has spaces trying to use same keywords like \/ , what can u recommend?"
+ok
+use the tab key as you type and it will show you how to use the \'s
+how do i run a .rpm file?
+alien?
+"try converting to deb using alien, or find the deb package..."
+It seems in the past couple minutes it stopped.
+"It did this all last night, and again just a few minutes ago, but it asked 'Install these packages without verification' listing all the programs for apt/synaptic and their dependencies."
+James147: is there any message at the end of 'sudo apt-get update'?
+ /QUOTE PASS 17828
+QUOTE PASS 17828
+Thats not how you identify.
+anyone know if there is away or if it's possbile to convert .pl scripts to .deb
+it would likely be called packaging
+google might know about debian new maintainer
+wine + uttorent = win
+azureus bad.
+i tried that.... utorrent actually deleted itself from my drive.
+hey can i get some help?
+anyone here know anything about windows?
+shoot and lets see ;)
+"Hi, ive go a strange problem. My Mouse1 act as 'Page up/Scroll up' - when i push mouse1 in my terminal it scrolls up - anyone has a solution for this?"
+Mouse4 does that 'scroll up' feature so maybe you have Mouse1 and Mouse4 swapped somewhere..
+you have any idea how i fix?
+"Hehe, I got curious and tried ctrl + alt F2 but I should have asked how do I get back to gnome aside from rebooting like I just had to. Doh!!"
+c-a-F7
+thanks. :)
+Hi something changed on my system after a driver upgrade and lighdm respawns. I have nvidia drivers. I tried starting X manually and it works. Can I restore to a working system through a reinstall via live cd ?
+Is there such thing in Ubuntu as repair ?
+"What do you mean, exactly?"
+"Hey, I am confused with using keys with OpenSSH, I have a private key for a user on a remote server which I put in my local id_rsa file but of course now it trys to use that for all servers I connect to (asking for the passphrase everytime). Where am i suppose to put the key?"
+you should set that up in ~/.ssh/config.  See 'man ssh' discussion on -i switch (feel free to ask more)
+thnx
+firefox is the default web-browser of the world*
+:D
+I want Ubuntu to adopt the webkit backend for GNOME so I can do away with it :)
+er
+"voodoo uses 3dfx, not openGL"
+the default installation added all of this glx mess to my xorg
+What does compiling your own kernel do for you?
+That's the 'infamous linux task (TM)'
+make it smaller?
+udb: Go here http://btfaq.com/serve/cache/56.html bittorent or check out another program like you are also being told
+any xchat users who autojoin channels and auto identify to nickserv? ;P
+ Yes...
+ick
+"Elektrochelovek, audacity?"
+thnx. I'll try!
+why would you go 32bit now? acicula
+does it matter anymore?
+"there is no reason to go 32bit now, unless for legacy reasons"
+I have a perl script that's stopping and starting services but when I kill the script it kills the services I started and stopped.  Question -- do processes started from within the script use a parent id of the perl script?
+look at htop
+`nohup` command may be?
+Can anyone tell me where I might find a fax modem that will work with 9.10 64 bit?
+almost any *external* fax modem should work. PCI modems often only work with windows drivers so beware...
+You know about http://www.gotfreefax.com/ ?
+is there a command to see dependantr libraries for some file?
+ldd?
+have you given that a shot?
+hello
+is this a helpful place for newbies
+it's supposed to be
+is fat32 most compatible file system for use under both linux and windows?
+what would you recommend? should i format my data dh as htfs/fat32/ext3?
+have heard good things about ext2 windows driver so you can use ext3 partition
+i cant install gparted theres not enough space lol
